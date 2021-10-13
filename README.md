@@ -1,4 +1,4 @@
 # birthday-timmer
-countdown timming
+countdown timmer
 
 https://timmerclock.netlify.app/
